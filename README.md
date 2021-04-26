@@ -70,8 +70,15 @@ allows for deploying small python and Node applications
 
 You can navigate to the UI [here](https://2gsqwm.deta.dev/docs#/)
 
+<img width="1223" alt="try_it_out" src="https://user-images.githubusercontent.com/8673979/116015252-95e8ab00-a606-11eb-9823-59ad3e4aac01.png">
+
 From the UI you can expand the end point, hit the "try it out" button 
 and pass in values you want to query and see the response
+
+Response will look like as below
+
+<img width="1093" alt="Screen Shot 2021-04-25 at 8 41 46 PM" src="https://user-images.githubusercontent.com/8673979/116015322-ca5c6700-a606-11eb-8889-acec9b043576.png">
+
 
 ## Things for improvement / deploy at scale
 
